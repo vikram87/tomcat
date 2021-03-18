@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h2>HTML Links</h2>
-<p>HTML links are defined with the a tag:</p>
+<h2>Jenkins Demo</h2>
+<p>Job Status can be check here:</p>
 
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="http://13.233.144.210:9123/user/admin/my-views/view/SESSION_VIEW/job/Archive_artifacts/">This is a link</a>
 
 </body>
 </html>
